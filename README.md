@@ -15,7 +15,9 @@ Learnign Outcomes-
 Designed responsive product layouts using CSS for better user experience.
 Integrated HTML, CSS, and JavaScript to build an interactive web application.
 
-TITLE- To build an interactive SVG drawing tool with mouse event handlers. LEARNING OUTCOMES-
+TITLE- To build an interactive SVG drawing tool with mouse event handlers. 
+
+LEARNING OUTCOMES-
 
 Implemented mouse event handlers to capture user interactions in real time.
 Integrated features such as color selection and undo functionality.
